@@ -1,0 +1,50 @@
+.App{
+  height: auto;;
+  background-color: #74B9FF;
+}
+
+button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #2475B0;
+  border: none;
+  margin: 20px;
+  color: #30336B;
+  font-size: 20px;
+}
+
+button:hover{
+  background-color: rgb(64, 66, 66);
+}
+
+button:active{
+  background-color:#6A89CC;
+}
+
+#email{
+  padding: 10px;
+  display: none;
+}
+#password{
+  padding: 10px;
+  display: none;
+  
+}
+
+#signin{
+  display: none;
+}
+
+#signup{
+  display: none;
+}
+
+#logout{
+  display:  none;
+}
+
+#googleout{
+  display: none;
+}
